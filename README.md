@@ -118,8 +118,7 @@ The demo program gives an example of how to do this.
 
 ## Acknowledgments
 
-[Alexander Bischofberger](mailto:bischofb@informatik.tu-muenchen.de) kindly
+Alexander Bischofberger kindly
 supplied the Selection mode modifications, as well as the background and text color methods.
 Paul Wilkerson fixed a focus related bug, and Geir Arne Trillhus also helped fix a few bugs.
 
-![](https://raw.githubusercontent.com/ChrisMaunder/colour_picker/master/docs/assets/noloader.jpg)
