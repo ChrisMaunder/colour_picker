@@ -2,9 +2,6 @@
 
 A simple drop in color chooser control
 
-- [Download demo project - 41 Kb](https://raw.githubusercontent.com/ChrisMaunder/colour_picker/master/docs/assets/colour_picker_demo.zip)
-- [Download source - 13 Kb](https://raw.githubusercontent.com/ChrisMaunder/colour_picker/master/docs/assets/colour_picker_src.zip)
-
 ![Colour Picker image](https://raw.githubusercontent.com/ChrisMaunder/colour_picker/master/docs/assets/colour_picker.gif)
 
 In an effort to have the latest and greatest wizz-bang features in
