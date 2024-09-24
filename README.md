@@ -35,7 +35,7 @@ These classes are contained in the file [colour_picker_src.zip](https://raw.gith
 
 CColourPicker only has the following public member functions:
 
-```
+```cpp
 void     SetColour(COLORREF crColour);
 COLORREF GetColour();
 
@@ -110,7 +110,7 @@ These messages can be handled using `ON_MESSAGE(< MESSAGE>, MessageFn)
 ` in you message map entries, where `MessageFn` is of
 the form
 
-```
+```cpp
 afx_msg LONG MessageFn(UINT lParam, LONG wParam);
 ```
 
